@@ -1,0 +1,9 @@
+Feynman writing prompts:
+
+Functions: reuseable blocks of code designed to perform a particular task. they create a set of steps to issue a command. statement that returns a value
+
+Parameters: placeholders found within the function. the parts of the steps for the command. variables given to a method
+
+Arguments: the real values passed to the function. what the parameters need to issue the command,
+
+if Statements: executes a statement if a specified condition is true. Used for comparing values. used to test the command
